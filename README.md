@@ -19,7 +19,7 @@ Final Presentation on Model Performance & Feature Analysis:
   https://docs.google.com/presentation/d/1giW8pl612sHWX14tgGnmKl5BwNnQkooDdjkTGpcAh9w/edit#slide=id.g2a15b586966_0_0
 
 
-## Python & Package Versions (also found in the yml file): name: data1030
+##Package Versions
 channels:
   - conda-forge
   - defaults
