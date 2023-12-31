@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project examines factors in flight delay using the 2015 airline dataset collected by the department of transportation and found on kaggle. The project first does exploratoratory data analysis (EDA) to examine and find some general trends about flights departing from Boston. It then creates a ML pipeline to examine multiple different models and there accuracy in predicting arrival delay. These models are stored in the results folder. Overall, the best model was found to be XXX with a performance of XXX, which is marginally better than the baseline performance of XXX. 
+This project examines factors in flight delay using the 2015 airline dataset collected by the department of transportation and found on kaggle. The project first does exploratoratory data analysis (EDA) to examine and find some general trends about flights departing from Boston. It then creates a ML pipeline to examine multiple different models and there accuracy in predicting arrival delay. These models are stored in the results folder. Overall, the best model performance was found to be marginally better than baseline performance. 
 
 ## LINKS
 
